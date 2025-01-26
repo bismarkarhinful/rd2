@@ -1,15 +1,18 @@
-### rd2: Rapid Direct 
+### r2d: rapid direct
 
-This repository demonstrates a simple, immediate HTML redirect using JavaScript.
+this repo shows how to hop to a new page with HTML and JavaScript.
 
-***Functionality:***
+***functionality:***
 
-* The `index.html` file utilizes JavaScript to swiftly redirect the user to the specified URL.
+* index.html uses JavaScript to take you to a new link, fast.
+
 
 ***Usage:***
 
-This code snippet serves as a basic example of implementing a rapid direct transition within an HTML environment.
+it's a simple way to move around in HTML.
+
 
 ***Note:***
 
-This implementation provides an immediate redirect. For more complex redirection scenarios, consider exploring alternative methods.
+this does it quick. for harder moves, look around more.
+
